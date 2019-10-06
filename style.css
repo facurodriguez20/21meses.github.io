@@ -1,0 +1,26 @@
+/*TITULOS   font-family: 'Kaushan Script', cursive;
+  TEXTOS    font-family: 'Caveat', cursive; */
+
+* {
+    font-family: 'Caveat', cursive;
+}
+
+nav {
+    background: pink;
+}
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+h4 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+p {
+    font-size: 25px;
+}
+
+footer {
+    background: pink;
+}
